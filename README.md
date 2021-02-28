@@ -105,8 +105,18 @@ URL for verify:
     
     code=4005 startdate or enddate does not provide;
     
-At last please pay attention to the urls which include datetime, please copy to your test target along with the time value, otherwise it will raise 500 error.
+At last please pay attention to the urls which include date time, please copy to your test target along with the time value, otherwise it will raise 500 error.
 
 
 Thanks and have fun!
+
+Some screen shots.
+
+https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/001.png
+https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/002.png
+https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/003.png
+https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/004.png
+https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/005.png
+https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/006.png
+https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/007.png
     
