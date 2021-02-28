@@ -68,9 +68,16 @@ URL for verify:
     
 7. Error mapping
     code=400 parameter error;
+    
     code=500 system error;
+    
     code=4001 Score value shoule be 0-100;
+    
     code=4002 Same player with the same input time was posted;
+    
     code=4003 id was not found from database;
+    
     code=4004 Query missing startdate or enddate;
+    
     code=4005 startdate or enddate does not provide;
+    
