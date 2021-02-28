@@ -20,8 +20,8 @@ Gradle 6
 
 URL for verify:
 1. Append a new record to database:
-    Put request.
-    http://127.0.0.1:8080/api/score/add?name=test001&score=99&time="2021-02-03 12:31:10"
+    Put request
+    http://127.0.0.1:8080/api/score/add?name=test001&score=99&time=2021-02-03 12:31:10
   
 2. Query by ID
     Get request
