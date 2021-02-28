@@ -41,6 +41,7 @@ URL for verify:
     
 5. Query by names
     Get request with start date
+    
     http://127.0.0.1:8080/api/scores/players?players=test001,test002&startdate=2019-04-03 13:31:35
     
     Get request with end date
@@ -50,11 +51,13 @@ URL for verify:
     http://127.0.0.1:8080/api/scores/players?players=test001,test002&startdate=2019-04-03 13:31:35&enddate=2021-04-13 13:00:00
     
     All above 3 get requests with pagable
+    
     http://127.0.0.1:8080/api/scores/players?players=test001,test002&startdate=2019-04-03 13:31:35&page=1&pagesize=10
     http://127.0.0.1:8080/api/scores/players?players=test001,test002&enddate=2019-04-03 13:31:35&page=1&pagesize=10
     http://127.0.0.1:8080/api/scores/players?players=test001,test002&startdate=2019-04-03 13:31:35&enddate=2021-04-13 13:00:00&page=1&pagesize=10
     
 6. History query for a player
+
     Get request to get all score list
     http://127.0.0.1:8080/api/history/player/test001
     
