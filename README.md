@@ -35,6 +35,7 @@ URL for verify:
 4. Query by name
     Get request
     http://127.0.0.1:8080/api/scores/player/test001
+    
     pagable
     http://127.0.0.1:8080/api/scores/player/test001?page=1&pagesize=10
     
