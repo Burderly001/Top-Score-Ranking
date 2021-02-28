@@ -105,3 +105,8 @@ URL for verify:
     
     code=4005 startdate or enddate does not provide;
     
+At last please pay attention to the urls which include datetime, please copy to your test target along with the time value, otherwise it will raise 500 error.
+
+
+Thanks and have fun!
+    
