@@ -113,10 +113,17 @@ Thanks and have fun!
 Some screen shots.
 
 https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/001.png
+
 https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/002.png
+
 https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/003.png
+
 https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/004.png
+
 https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/005.png
+
 https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/006.png
+
 https://github.com/Burderly001/Top-Score-Ranking/blob/main/IMG/007.png
+
     
