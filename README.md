@@ -67,6 +67,7 @@ URL for verify:
     
     
 7. Error mapping
+
     code=400 parameter error;
     
     code=500 system error;
